@@ -1,4 +1,4 @@
-package main.UnderstandingInterface;
+package main.understandingInterface;
 
 class ACMEBicycle implements Bicycle {
 

@@ -1,4 +1,4 @@
-package main.understandingSimpleClassAndInheritance;
+package main.understandingsimpleclassandinheritance;
 
 
 
