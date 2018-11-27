@@ -1,4 +1,4 @@
-package main;
+package main.arrayandarraylist;
 
 class ArrayDemo {
     public static void main(String[] args) {

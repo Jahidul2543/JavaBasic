@@ -1,3 +1,5 @@
+package main.controlflow;
+
 public class SwitchDemo {
     public static void main(String[] args) {
 
