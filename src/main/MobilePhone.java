@@ -1,6 +1,6 @@
 package main;
 
-public class Mobile {
+public class MobilePhone {
 
    int numberOfMobileOfGermanico;
    /*
@@ -12,17 +12,17 @@ public class Mobile {
    * */
 
    /*
-   * This is called constructor of Mobile Class
+   * This is called constructor of MobilePhone Class
    * Default constructor does not take any arguments
    * Default Constructor does not have any Argument
    */
 
-   public Mobile(){
+   public MobilePhone(){
       System.out.println("I am inside constructor");
    }
 
    // This is declared by me, added a argument
-   public Mobile(int numberOfMobileOfArnob){
+   public MobilePhone(int numberOfMobileOfArnob){
 
       /* this is a keyword , it talks about the variable outside any method but
       inside the class*/
@@ -34,10 +34,10 @@ public class Mobile {
    public static void main(String[] args) {
 
       System.out.println("Allows you to run");
-      Mobile  asusZenPhone = new Mobile();
+      MobilePhone asusZenPhone = new MobilePhone();
       asusZenPhone.makeCall();
 
-      Mobile  isoPhone = new Mobile(2);
+      MobilePhone isoPhone = new MobilePhone(2);
       isoPhone.sendText();
 
 

@@ -1,4 +1,4 @@
-package main.UnderstandingInterface;
+package main.understandingInterface;
 public class IosMobile extends BasicMobile {
 
 

@@ -1,4 +1,4 @@
-package main;
+package main.understandingblock;
 
 public class BlockDemo {
     public static void main(String[] args) {

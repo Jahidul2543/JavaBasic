@@ -1,11 +1,2 @@
-package main.UnderstandingInterface;
-public interface Mobile {
+package main.understandingInterface;
 
-    int a = 2;
-
-    public void calling();
-
-    public void messaging();
-
-    public void camera();
-}
