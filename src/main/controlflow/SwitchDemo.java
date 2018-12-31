@@ -3,7 +3,8 @@ package main.controlflow;
 public class SwitchDemo {
     public static void main(String[] args) {
 
-         int month = 8;
+         int month = 5;
+         // char, enum , int
         String monthString;
 
         switch (month) {
