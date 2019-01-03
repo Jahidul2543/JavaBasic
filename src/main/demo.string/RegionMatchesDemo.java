@@ -9,6 +9,7 @@ public class RegionMatchesDemo {
          * */
         String searchMe = "Green Eggs and Ham";
         String findMe = "Eggs";
+
         int searchMeLength = searchMe.length();
         int findMeLength = findMe.length();
         boolean foundIt = false;
